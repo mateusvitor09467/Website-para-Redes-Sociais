@@ -25,5 +25,3 @@ O objetivo deste site é proporcionar uma maneira prática e eficiente para que 
 - Proporcionar uma experiência de navegação intuitiva e sem distrações.
 
 ---
-
-Esse formato deixa claro o propósito do site e suas funcionalidades, destacando seu design e objetivos. Se precisar de mais algum ajuste, posso ajudar!
