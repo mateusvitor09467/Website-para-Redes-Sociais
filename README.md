@@ -1,5 +1,3 @@
-Aqui está uma descrição adaptada para o seu site de redes sociais, com base no formato que você forneceu:
-
 ---
 
 ## Website para Redes Sociais
